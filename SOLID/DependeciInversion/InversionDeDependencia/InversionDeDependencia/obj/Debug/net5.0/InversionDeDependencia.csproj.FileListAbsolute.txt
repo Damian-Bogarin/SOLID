@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\bin\Debug\net5.0\InversionDeDependencia.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\refint\InversionDeDependencia.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\InversionDeDependencia.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\DependeciInversion\InversionDeDependencia\InversionDeDependencia\obj\Debug\net5.0\ref\InversionDeDependencia.dll

@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\bin\Debug\net5.0\SustitucionDeLiskov.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\refint\SustitucionDeLiskov.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\SustitucionDeLiskov.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\Solid\S\LiskovSustitution\SustitucionDeLiskov\SustitucionDeLiskov\obj\Debug\net5.0\ref\SustitucionDeLiskov.dll
